@@ -1,9 +1,11 @@
-import { Button } from "@/components/ui/button"
+import { Button } from '@/components/ui/button'
 
 function App() {
-  return <main>
-    <Button>Click me</Button>
-  </main>
+  return (
+    <main>
+      <Button>Click me</Button>
+    </main>
+  )
 }
 
 export default App
